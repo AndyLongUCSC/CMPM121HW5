@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - pickup
+  - Door1
+  - particle
+  - wall
   layers:
   - Default
   - TransparentFX
