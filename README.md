@@ -22,3 +22,5 @@ Collect the yellow cubes in the air to open doors. Collect all the yellow cubes 
 
 Assests Used:
 https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
+
+Assests I made for the project are in the "My Assests" folder.
